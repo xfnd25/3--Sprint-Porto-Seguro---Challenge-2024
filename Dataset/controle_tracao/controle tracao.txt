@@ -1,0 +1,1 @@
+Controle de tração: A luz do controle de tração indica que o sistema está desativado ou que há algum problema no seu funcionamento. Isso pode ocorrer devido a uma falha em um dos sensores ou em algum componente eletrônico do sistema.

@@ -1,0 +1,1 @@
+Bateria: A luz da bateria indica um problema no sistema elétrico do veículo. Pode ser um sinal de bateria fraca, alternador com defeito, cabos soltos ou até mesmo um curto-circuito. Se essa luz acender, é recomendado não continuar dirigindo por muito tempo, pois o carro pode não ligar novamente.

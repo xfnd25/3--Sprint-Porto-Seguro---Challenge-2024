@@ -1,0 +1,8 @@
+RM555317 - FERNANDO FONTES DE CAMARGO
+RM556814 - GUILHERME FERREIRA JARDIM
+RM554945 - NATHÁLIA GOMES DA SILVA
+
+-=-=-=-= Explicação =-=-=-=-
+Os dados foram coletados para que a inteligência artificial consiga identificar através de uma foto que o cliente vai tirar, a luz acesa do painel, assim dando possibilidade
+de continuar com o diagnóstico do carro.
+As fotos foram coletadas do google, algumas são de painéis de carro reais, algumas representações desenhadas, ambas de qualidade maior ou menor para o machine learning ser mais eficaz, os rótulos estão dentro de cada arquivo com o nome da luz respectiva.

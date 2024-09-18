@@ -1,0 +1,1 @@
+Injeção eletrônica: Essa luz indica um problema no sistema de injeção eletrônica do motor. Pode ser um sinal de falha em algum sensor, no módulo de controle da injeção ou em algum componente do sistema de combustível. Um problema na injeção eletrônica pode afetar o desempenho do motor e o consumo de combustível.
